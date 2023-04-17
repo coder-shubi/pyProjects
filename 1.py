@@ -7,7 +7,7 @@ while True:
         print('''
 number      command
 1           lower
-2           
+2           capitalize
 3           
 4           
 5           
